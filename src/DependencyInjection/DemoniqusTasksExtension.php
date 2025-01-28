@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace Demoniqus\Tasks\DependencyInjection;
+
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 

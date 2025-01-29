@@ -26,10 +26,6 @@
     "prefer-stable": true,
     "repositories": [],
     "require-dev": {
-        "phpspec/prophecy": "^1.19",
-        "phpspec/prophecy-phpunit": "^2.2",
-        "phpunit/phpunit": "^11",
-        "symfony/phpunit-bridge": "^5.4",
         "friendsofphp/php-cs-fixer": "^3.4"
     }
 }

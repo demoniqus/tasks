@@ -10,8 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=8.2",
-        "evrinoma/user": "dev-main"
+        "php": ">=8.2"
     },
     "autoload": {
         "psr-4": {

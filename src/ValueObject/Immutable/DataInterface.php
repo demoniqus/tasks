@@ -16,7 +16,7 @@ namespace Demoniqus\Tasks\ValueObject\Immutable;
 
 interface DataInterface
 {
-    public const DATA = 'date';
+    public const DATA = 'data';
 
     public function hasData(): bool;
 
